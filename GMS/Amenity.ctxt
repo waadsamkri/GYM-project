@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Amenity
+comment1.params=name\ available\ instructor
+comment1.target=Amenity(java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=available
+comment4.target=void\ setAvailability(boolean)
+comment5.params=
+comment5.target=boolean\ isAvailable()
+comment6.params=instructor
+comment6.target=void\ setInstructor(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getInstructor()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

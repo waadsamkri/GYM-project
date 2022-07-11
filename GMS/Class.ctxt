@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Class
+comment1.params=name\ available\ capacity\ instructor
+comment1.target=Class(java.lang.String,\ boolean,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=newMember
+comment11.target=void\ register(Member)
+comment12.params=
+comment12.target=void\ printRegistered()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=available
+comment4.target=void\ setAvailability(boolean)
+comment5.params=
+comment5.target=boolean\ isAvailable()
+comment6.params=capacity
+comment6.target=void\ setCapacity(int)
+comment7.params=
+comment7.target=boolean\ isFull()
+comment8.params=instructor
+comment8.target=void\ setInstructor(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getInstructor()
+numComments=13

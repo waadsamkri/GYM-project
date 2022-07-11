@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FamilyMember
+comment1.params=name\ gender\ dof\ dor\ address\ phone\ type
+comment1.target=FamilyMember(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMembership()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
