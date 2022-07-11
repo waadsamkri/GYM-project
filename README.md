@@ -10,10 +10,14 @@ The two sub-classes SingleMember and FamilyMember each extends the superclass an
 After adding the members and services to the system. The help desk staff would be able to register any member in any services. The help desk staff are also able to apply a special discount on some memberships if the member is registered for 10 years or more. The gym Also offers the VIP costumers additional discount in some of classes only.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:The Gymnasium Management System (GMS)
-PURPOSE OF PROJECT:Application Development using Object Oriented Paradigm
-VERSION or DATE: April-2021
-AUTHORS: Waad 
+PROJECT TITLE:
+The Gymnasium Management System (GMS)
+PURPOSE OF PROJECT:
+Application Development using Object Oriented Paradigm
+VERSION or DATE:
+April-2021
+AUTHORS:
+Waad Samkari
 USER INSTRUCTIONS:
 This is a Java project.
 Use a BlueJ app to open this project.
