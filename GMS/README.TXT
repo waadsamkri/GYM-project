@@ -14,4 +14,5 @@ PURPOSE OF PROJECT:Application Development using Object Oriented Paradigm
 VERSION or DATE: April-2021
 AUTHORS: Waad 
 USER INSTRUCTIONS:
+This is a Java project.
 Use a BlueJ app to open this project.
